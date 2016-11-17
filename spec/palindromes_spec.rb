@@ -1,7 +1,7 @@
 require('rspec')
-require('./lib/palindromes')
+# require('./lib/method_here')
 
-describe('String#palindromes') do
+# describe('Class#method_here') do
   it('') do
     expect('').to(eq(''))
   end

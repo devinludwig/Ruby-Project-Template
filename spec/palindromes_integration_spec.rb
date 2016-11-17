@@ -3,7 +3,7 @@ require('./app')
 Capybara.app = Sinatra::Application
 set(:show_exceptions, false)
 
-describe 'the path of palidromes', :type => :features do
+describe 'the path of your_method', :type => :features do
   it('') do
     visit('/')
     fill_in('', :with => '')
